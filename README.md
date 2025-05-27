@@ -16,7 +16,7 @@
 - **Platforms & OS:** Linux  
 - **AI & ML:** TensorFlow · PyTorch  
 - **Mobile & UI:** Flutter (Dart)  
-
+- **Web development:** Flask (Python)
 ---
 
 ## 🔨 Featured Work & Projects
