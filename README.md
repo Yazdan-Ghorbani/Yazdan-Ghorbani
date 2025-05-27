@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Yazdan Ghorbani
+# 👋 Greetings, I’m Yazdan Ghorbani
 
 **Leader of Taraz Tech Team • Founder of [VohuCode](https://vohucode.pages.dev) (AI-mentor–powered code teaching)**
 
