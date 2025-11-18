@@ -17,6 +17,7 @@
 - **AI & ML:** TensorFlow · PyTorch  
 - **Mobile & UI:** Flutter (Dart)  
 - **Web development:** Flask (Python)
+- **Server Side:** Docker • Docker Compose • Kubernetes • Nginx
 ---
 
 ## 🔨 Featured Work & Projects
@@ -28,8 +29,16 @@
   Automated video posting & content creation using Selenium & `requests` in Python.
 - **Shad.ir Integration**  
   Custom bot solutions for the Iranian educational platform Shad.
+
+### 🖥 Server Managment And Self Hosting
 - **Self Hosting Zero Trust Web Service**
-  Hosting zero trust service behind CGNAT and home network, setting up reverse proxy nginx server and secure TLS connection, setting the best platform to deploy all other local hosting services on prem with the most security and ease
+  Hosting zero trust service behind Dual CGNAT and home network, setting up reverse proxy nginx server and secure TLS connection, setting the best platform to deploy all other local hosting services on prem with the most security and ease
+- **Self Hosted Matrix Server**
+  Hosting Matrix protocol by Synapse and running Element server for online meetings, Rocket chat for team and project management and etc.
+- **Self Hosting BYOB And Local Botnet Army**
+  New strategy and design to build botnets for major variety for handling project
+- **N8N Server Self Hosting for Automations and Server Management**
+  Easily deployed thanks to my zero trust service
 ### 🎓 Teaching Platforms
 - **VohuCode**  
   AI-driven code-teaching website and mentorship platform—my first venture into ed-tech!
