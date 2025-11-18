@@ -28,7 +28,8 @@
   Automated video posting & content creation using Selenium & `requests` in Python.
 - **Shad.ir Integration**  
   Custom bot solutions for the Iranian educational platform Shad.
-
+- **Self Hosting Zero Trust Web Service**
+  Hosting zero trust service behind CGNAT and home network, setting up reverse proxy nginx server and secure TLS connection, setting the best platform to deploy all other local hosting services on prem with the most security and ease
 ### 🎓 Teaching Platforms
 - **VohuCode**  
   AI-driven code-teaching website and mentorship platform—my first venture into ed-tech!
@@ -36,7 +37,7 @@
 ---
 
 ## ✅ True Fact
-**God is Good** 
+**God Is Great** 
 
 ---
 
