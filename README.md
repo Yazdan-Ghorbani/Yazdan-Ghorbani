@@ -30,7 +30,7 @@
 - **Shad.ir Integration**  
   Custom bot solutions for the Iranian educational platform Shad.
 
-### 🖥 Server Managment And Self Hosting
+### 🖥 Server Managment And Self Hosting(All services are hosting on a 4 gb ddr3 ram and 2 core i3 cpu :) )
 - **Self Hosting Zero Trust Web Service**
   Hosting zero trust service behind Dual CGNAT and home network, setting up reverse proxy nginx server and secure TLS connection, setting the best platform to deploy all other local hosting services on prem with the most security and ease
 - **Self Hosted Matrix Server**
@@ -39,6 +39,10 @@
   New strategy and design to build botnets for major variety for handling project
 - **N8N Server Self Hosting for Automations and Server Management**
   Easily deployed thanks to my zero trust service
+- **Self Hosted Remote Desk Server**
+  Easily deployed thanks to my zero trust service
+- **Wireguard VPN Server Self Hosted In Localhost With Ability To Change IP,Kill Switch And etc**
+  
 ### 🎓 Teaching Platforms
 - **VohuCode**  
   AI-driven code-teaching website and mentorship platform—my first venture into ed-tech!
