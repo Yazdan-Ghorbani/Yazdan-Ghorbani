@@ -12,9 +12,9 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Python · SQL · Dart  
+- **Languages:** Python • SQL • Dart  
 - **Platforms & OS:** Linux  
-- **AI & ML:** TensorFlow · PyTorch  
+- **AI & ML:** TensorFlow • PyTorch  
 - **Mobile & UI:** Flutter (Dart)  
 - **Web development:** Flask (Python)
 - **Server Side:** Docker • Docker Compose • Kubernetes • Nginx
@@ -31,17 +31,19 @@
   Custom bot solutions for the Iranian educational platform Shad.
 
 ### 🖥 Server Managment And Self Hosting(All services are hosting on a 4 gb ddr3 ram and 2 core i3 cpu :) )
-- **Self Hosting Zero Trust Web Service**
-  Hosting zero trust service behind Dual CGNAT and home network, setting up reverse proxy nginx server and secure TLS connection, setting the best platform to deploy all other local hosting services on prem with the most security and ease
-- **Self Hosted Matrix Server**
-  Hosting Matrix protocol by Synapse and running Element server for online meetings, Rocket chat for team and project management and etc.
-- **Self Hosting BYOB And Local Botnet Army** 
-  New strategy and design to build botnets for major variety for handling project
-- **N8N Server Self Hosting for Automations and Server Management**
-  Easily deployed thanks to my zero trust service
-- **Self Hosted Remote Desk Server**
-  Easily deployed thanks to my zero trust service
-- **Wireguard VPN Server Self Hosted In Localhost With Ability To Change IP,Kill Switch And etc**
+- **Self-Hosting Zero Trust Web Service**  
+  Hosting zero trust service behind Dual CGNAT and home network, setting up a reverse proxy nginx server and secure TLS connection, setting the best platform to deploy all other local hosting services on-prem with the most security and ease
+- **Self Hosted Matrix Server**  
+  Hosting Matrix protocol by Synapse and running Element server for online meetings, Rocket chat for team and project management, etc.
+- **Self Hosting BYOB And Local Botnet Army**   
+  New strategy and design to build botnets for a wide variety of handling projects
+- **N8N Server Self-Hosting for Automations and Server Management**  
+  Easily deployed thanks to my zero-trust service
+- **Self Hosted Remote Desk Server**  
+  Easily deployed thanks to my zero-trust service
+- **Wireguard VPN Server Self Hosted In Localhost With Ability To Change IP, Kill Switch, etc**  
+- **Self-Hosting Monitoring And Management Service**  
+  Designed to observe and notify about all activities based on what action happened on each one of the services I'm hosting or the projects I'm working on
   
 ### 🎓 Teaching Platforms
 - **VohuCode**  
