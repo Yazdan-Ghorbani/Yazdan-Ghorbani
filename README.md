@@ -44,7 +44,8 @@
 - **Wireguard VPN Server Self Hosted In Localhost With Ability To Change IP, Kill Switch, etc**  
 - **Self-Hosting Monitoring And Management Service**  
   Designed to observe and notify about all activities based on what action happened on each one of the services I'm hosting or the projects I'm working on
-  
+- **Self Hosting Online Meeting And Video Conferencing Platform**
+  Thanks to my own deploy zero trust platform, I provide a high level online meeting platform based on matrix protocol to avoid using any 3rd party services aka google meet, microsoft teams and etc.
 ### 🎓 Teaching Platforms
 - **VohuCode**  
   AI-driven code-teaching website and mentorship platform—my first venture into ed-tech!
