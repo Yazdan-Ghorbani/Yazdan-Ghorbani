@@ -61,5 +61,6 @@
 <!-- Add your contact info or social links here -->
 - [Telegram](https://t.me/QYazdan_Ghorbani)
 - [Website](https://yazdanghorbani.pages.dev)
+- [LinkedIn](https://www.linkedin.com/in/yazdan-ghorbani-412941397/)
 ---
 *“Code is like humor. When you have to explain it, it’s bad.”*  
