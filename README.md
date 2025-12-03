@@ -1,6 +1,6 @@
 # 👋 Greetings, I’m Yazdan Ghorbani
 
-**Leader of Taraz Tech Team • Founder of [VohuCode](https://vohucode.pages.dev) (AI-mentor–powered code teaching)**
+**Founder of [VohuCode](https://vohucode.pages.dev) (AI-mentor–powered code teaching)**
 
 ---
 
@@ -14,7 +14,6 @@
 ## 🛠️ Skills & Technologies
 - **Languages:** Python • SQL • Dart  
 - **Platforms & OS:** Linux  
-- **AI & ML:** TensorFlow • PyTorch  
 - **Mobile & UI:** Flutter (Dart)  
 - **Web development:** Flask (Python)
 - **Server Side:** Docker • Docker Compose • Kubernetes • Nginx
