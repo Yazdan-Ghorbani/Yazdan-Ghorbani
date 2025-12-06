@@ -19,7 +19,7 @@
 - **Server Side:** Docker • Docker Compose • Kubernetes • Nginx
 ---
 
-## 🔨 Featured Work & Projects
+## 🔨 Projects
 
 ### 🤖 Automation & Bots
 - **Telegram, WhatsApp & Instagram Robots**  
